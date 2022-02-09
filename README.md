@@ -8,6 +8,7 @@ made using MediaPipe's ML framework.
 ![alt text](https://github.com/arshkhans/Hand-Gesture-Detection/blob/main/runningImages/paper.png?raw=true)
 ![alt text](https://github.com/arshkhans/Hand-Gesture-Detection/blob/main/runningImages/rock.png?raw=true)
 ![alt text](https://github.com/arshkhans/Hand-Gesture-Detection/blob/main/runningImages/scissorLandmarks.png?raw=true)
+![alt text](https://github.com/arshkhans/Hand-Gesture-Detection/blob/main/runningImages/notDetecting.png?raw=true)
 
 ## Getting Started
 
