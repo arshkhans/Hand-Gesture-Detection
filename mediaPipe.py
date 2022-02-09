@@ -35,8 +35,8 @@ with mp_hands.Hands(
           and (hand_landmarks.landmark[12].y < hand_landmarks.landmark[9].y)\
           and (hand_landmarks.landmark[16].y > hand_landmarks.landmark[13].y)\
           and (hand_landmarks.landmark[20].y > hand_landmarks.landmark[17].y):
-          print("Scissors")
-          text = "Scissors"
+          print("Scissor")
+          text = "Scissor"
         elif (hand_landmarks.landmark[8].y < hand_landmarks.landmark[5].y)\
           and (hand_landmarks.landmark[12].y < hand_landmarks.landmark[9].y)\
           and (hand_landmarks.landmark[16].y < hand_landmarks.landmark[13].y)\
